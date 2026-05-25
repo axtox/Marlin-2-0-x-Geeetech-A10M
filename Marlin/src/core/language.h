@@ -92,7 +92,7 @@
   #define MACHINE_UUID DEFAULT_MACHINE_UUID
 #endif
 
-#define MARLIN_WEBSITE_URL "github.com/knutwurst"
+#define MARLIN_WEBSITE_URL "by axtox"
 
 //#if !defined(STRING_SPLASH_LINE3) && defined(WEBSITE_URL)
 //  #define STRING_SPLASH_LINE3 WEBSITE_URL

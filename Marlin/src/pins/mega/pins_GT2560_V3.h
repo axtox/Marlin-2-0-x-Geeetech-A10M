@@ -145,7 +145,7 @@
 #define SD_DETECT_PIN                         38
 #define SDSS                                  53
 #define LED_PIN                               13  // Use 6 (case light) for external LED. 13 is internal (yellow) LED.
-#define PS_ON_PIN                             12
+//#define PS_ON_PIN                             12
 
 #if NUM_RUNOUT_SENSORS < 3
   #define SUICIDE_PIN                         54  // This pin must be enabled at boot to keep power flowing
