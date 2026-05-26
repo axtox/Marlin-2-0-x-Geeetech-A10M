@@ -1,0 +1,29 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "PlatformIO",
+			"task": "Upload (mega2560)",
+			"problemMatcher": [
+				"$platformio"
+			],
+			"label": "PlatformIO: Upload (mega2560)"
+		},
+		{
+			"type": "PlatformIO",
+			"task": "Upload and Monitor (mega2560)",
+			"problemMatcher": [
+				"$platformio"
+			],
+			"label": "PlatformIO: Upload (mega2560)"
+		},
+		{
+			"type": "PlatformIO",
+			"task": "Monitor (mega2560)",
+			"problemMatcher": [
+				"$platformio"
+			],
+			"label": "PlatformIO: Monitor (mega2560)"
+		}
+	]
+}
